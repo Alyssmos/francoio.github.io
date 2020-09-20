@@ -15,7 +15,7 @@ output: pdf_document
 
 * Déterminer la probabilité de l'événement $(N_E > k)$, pour tout $k \geq 1$. Quelle est la loi de $N_E$ ?
 
-###### Réponse : 
+###### Réponse : $P(N_E > k) = \bigparen{\frac{5}{6}}^k$
 
 
 ##### Question 2
